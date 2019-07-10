@@ -1,0 +1,5 @@
+language: python
+
+python: "2.7"
+
+script: echo -e "input.txt \n 2 \n first_line \n second_line \n 1 \n input_copy.txt" |python  Summary_of_ex_1_21_functions_and_files.py
